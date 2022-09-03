@@ -1,0 +1,73 @@
+text_Load[1] = "Contraseña"
+text_Load[2] = "Contraseña incorrecta \ n \ nPor favor enviar su contraseña"
+
+
+text_By[4] = "Agradecimientos:"
+text_By[10] = "Para comprobar si hay disponible una nueva versión"
+text_By[11] = "Triángulo de prensa o visite el sitio:"
+text_By[13] = "Ronda: Lista de Notas"
+
+
+text_Menu[3] = "Botón de información"
+text_Menu[4] = "¿Estás seguro de que quieres eliminar esta nota?"
+text_Menu[5] = "¿Realmente desea borrar todas las notas?"
+text_Menu[6] = "Lista de notas"
+text_Menu[7] = "Bienvenido "
+text_Menu[8] = "ningunas notas"
+text_Menu[10] = "fotografía"
+text_Menu[11] = "Editar"
+text_Menu[12] = "notas"
+
+
+text_InfoKeys[1] = "eliminar notas"
+text_InfoKeys[2] = "crear nota"
+text_InfoKeys[3] = "crédito"
+text_InfoKeys[4] = "Modo USB"
+text_InfoKeys[5] = "eliminar notas"
+text_InfoKeys[6] = "Opciones"
+text_InfoKeys[7] = "Abrir nota"
+text_InfoKeys[8] = "Este menú"
+text_InfoKeys[9] = "+ 3 notas"
+text_InfoKeys[10] = "- 1 nota"
+text_InfoKeys[11] = "+ 3 notas"
+text_InfoKeys[12] = "- 3 notas"
+text_InfoKeys[13] = "+ 1 nota"
+text_InfoKeys[14] = "Irse"
+
+
+text_Options[1] = "Idioma : "
+text_Options[2] = "Contraseña : "
+text_Options[3] = "Teclado : "
+text_Options[4] = "Tema : "
+text_Options[5] = "Menú de sonido : "
+text_Options[6] = "Guardar los ajustes y"
+text_Options[11] = "volver al menú"
+text_Options[12] = "relanzar PSPNotes"
+text_Options[13] = "volver a XMB"
+text_Options[14] = "apagar la PSP"
+text_Options[15] = "no guardar"
+text_Options[16] = "No"
+text_Options[17] = "Si"
+text_Options[18] = "Introduzca su nueva contraseña"
+text_Options[17] = "si"
+text_Options[25] = "Comienza"
+
+text_NewNote[1] = "Nota"
+text_NewNote[2] = "Pulse Inicio para guardar la nota"
+text_NewNote[3] = "Comentario"
+text_NewNote[4] = "Pulse Inicio para guardar el comentario"
+text_NewNote[5] = "Nombre de la nota"
+text_NewNote[6] = "Pulse Inicio para guardar el nombre de la nota"
+text_NewNote[7] = "¿Quieres insertar un comentario en la nota?"
+text_NewNote[8] = "¿Quieres el nombre de la nota?"
+text_NewNote[9] = "Nota Creado!"
+text_NewNote[10] = "Pulse Iniciar para seguir"
+
+
+text_USB[1] = "Conecte un cable USB"
+text_USB[2] = "USB conectado"
+text_USB[3] = "O Precedente"
+
+
+text_screenShots[1] = "Nombre de la fotografía"
+text_screenShots[2] = "Prensa empezar a tomar la fotografía"

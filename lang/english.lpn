@@ -1,0 +1,73 @@
+text_Load[1] = "Password"
+text_Load[2] = "Bad Password!\n\nPlease restart"
+
+
+text_By[4] = "Thanks:"
+text_By[10] = "To check if a new release is available"
+text_By[11] = "Press triangle or visit the web site:"
+text_By[13] = "Circle : Notes"
+
+
+text_Menu[3] = "Infos on the keys"
+text_Menu[4] = "Do you really want to remove this note?"
+text_Menu[5] = "Do you really want to remove all notes?"
+text_Menu[6] = "Notes list"
+text_Menu[7] = "Welcome "
+text_Menu[8] = "No notes"
+text_Menu[10] = "Screenshot"
+text_Menu[11] = "Edit"
+text_Menu[12] = "note"
+
+
+text_InfoKeys[1] = "Remove note"
+text_InfoKeys[2] = "Create note"
+text_InfoKeys[3] = "Credits"
+text_InfoKeys[4] = "USB"
+text_InfoKeys[5] = "Remove notes"
+text_InfoKeys[6] = "Options"
+text_InfoKeys[7] = "Open note"
+text_InfoKeys[8] = "This menu"
+text_InfoKeys[9] = "+ 3 notes"
+text_InfoKeys[10] = "- 1 note"
+text_InfoKeys[11] = "+ 3 notes"
+text_InfoKeys[12] = "- 3 notes"
+text_InfoKeys[13] = "+ 1 note"
+text_InfoKeys[14] = "Quit"
+
+
+text_Options[1] = "Langage : "
+text_Options[2] = "Password : "
+text_Options[3] = "Keyboard : "
+text_Options[4] = "Theme : "
+text_Options[5] = "Menu's sounds: "
+text_Options[6] = "Save settings and"
+text_Options[11] = "Return to mainmenu"
+text_Options[12] = "Restart PSPNotes"
+text_Options[13] = "Go bak to the XMB"
+text_Options[14] = "Shutdown the PSP"
+text_Options[15] = "Don't save"
+text_Options[16] = "No"
+text_Options[17] = "Yes"
+text_Options[18] = "Please enter your password again"
+text_Options[17] = "Yes"
+text_Options[25] = "Starts"
+
+text_NewNote[1] = "Note"
+text_NewNote[2] = "Save the note"
+text_NewNote[3] = "Comment"
+text_NewNote[4] = "Save the comment"
+text_NewNote[5] = "Note's name"
+text_NewNote[6] = "Save notes's name"
+text_NewNote[7] = "Do you want to insert a commentin the note?"
+text_NewNote[8] = "Do you want to name the note?"
+text_NewNote[9] = "Note Created!"
+text_NewNote[10] = "Press START to continue"
+
+
+text_USB[1] = "Connect a USB cable"
+text_USB[2] = "USB connected"
+text_USB[3] = "O Precedent"
+
+
+text_screenShots[1] = "Name of the screenshot"
+text_screenShots[2] = "Press START to take the screenshot"

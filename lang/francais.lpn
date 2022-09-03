@@ -1,0 +1,73 @@
+text_Load[1] = "Mot de passe"
+text_Load[2] = "Mot de passe incorrecte!\n\nVeuillez reinserer votre mot de passe"
+
+
+text_By[4] = "Remerciments:"
+text_By[10] = "Pour verifier si une nouvelle version est disponible"
+text_By[11] = "Appuyez sur triangle ou visitez le site:"
+text_By[13] = "Rond : Liste des Notes"
+
+
+text_Menu[3] = "Infos touches"
+text_Menu[4] = "Voulez-vous vraiment supprimer cette note ?"
+text_Menu[5] = "Voulez-vous vraiment supprimer toutes les notes?"
+text_Menu[6] = "Liste des notes"
+text_Menu[7] = "Bienvenue "
+text_Menu[8] = "Aucunes notes"
+text_Menu[10] = "Screenshot"
+text_Menu[11] = "Editer"
+text_Menu[12] = "note"
+
+
+text_InfoKeys[1] = "Supp note"
+text_InfoKeys[2] = "Creer note"
+text_InfoKeys[3] = "Credits"
+text_InfoKeys[4] = "USB"
+text_InfoKeys[5] = "Supp notes"
+text_InfoKeys[6] = "Options"
+text_InfoKeys[7] = "Ouvrir note"
+text_InfoKeys[8] = "Ce menu"
+text_InfoKeys[9] = "+ 3 notes"
+text_InfoKeys[10] = "- 1 note"
+text_InfoKeys[11] = "+ 3 notes"
+text_InfoKeys[12] = "- 3 notes"
+text_InfoKeys[13] = "+ 1 note"
+text_InfoKeys[14] = "Quitter"
+
+
+text_Options[1] = "Langage : "
+text_Options[2] = "Mot de passe : "
+text_Options[3] = "Clavier : "
+text_Options[4] = "Theme : "
+text_Options[5] = "Sons menu : "
+text_Options[6] = "Sauvegarder les reglages et"
+text_Options[11] = "revenir au menu"
+text_Options[12] = "relancer PSPNotes"
+text_Options[13] = "retourner au XMB"
+text_Options[14] = "eteindre la PSP"
+text_Options[15] = "ne pas sauvegarder"
+text_Options[16] = "Non"
+text_Options[17] = "Oui"
+text_Options[18] = "Entrer votre nouveau mot de passe"
+text_Options[17] = "Oui"
+text_Options[25] = "Demarrages"
+
+text_NewNote[1] = "Note"
+text_NewNote[2] = "Sauver la note"
+text_NewNote[3] = "Commentaire"
+text_NewNote[4] = "Sauver le commentaire"
+text_NewNote[5] = "Nom de la note"
+text_NewNote[6] = "Sauver le nom de la note"
+text_NewNote[7] = "Voulez-vous inserer un commentaire dans la note?"
+text_NewNote[8] = "Voulez-vous nommer la note?"
+text_NewNote[9] = "Note Cree!"
+text_NewNote[10] = "Appuyer sur start pour continuer"
+
+
+text_USB[1] = "Connecter un cable USB"
+text_USB[2] = "USB connecte"
+text_USB[3] = "O Precedent"
+
+
+text_screenShots[1] = "Nom de screenshot"
+text_screenShots[2] = "Pressez satrt pour prendre le screenshot"
